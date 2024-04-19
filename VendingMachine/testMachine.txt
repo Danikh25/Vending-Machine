@@ -1,0 +1,5 @@
+Water::1.50::16
+Snickers::2.10::0
+Haribo::1.60::9
+Malteasers::2.10::7
+Starburst::1.05::17
